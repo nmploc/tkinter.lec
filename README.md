@@ -1,3 +1,2 @@
 # tkinter.lec
-# tkinter.lec
-# tkinter.lec
+hello there :))
